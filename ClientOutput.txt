@@ -1,0 +1,476 @@
+Record from X517 is Tue Nov 28 14:00:31 GMT 2017. ClientID is: REECE
+Client REECE host is X517Client current priority level: #LOWClient initial priority LOWTotal run times 0Prioriry waiting times 23Total waiting time: 23
+Record from X517 is Tue Nov 28 14:00:36 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517Client current priority level: #LOWClient initial priority LOWTotal run times 0Prioriry waiting times 2408Total waiting time: 2408
+Record from X517 is Tue Nov 28 14:00:41 GMT 2017. ClientID is: SAM
+Client SAM host is X517Client current priority level: #MEDIUMClient initial priority MEDIUMTotal run times 0Prioriry waiting times 4546Total waiting time: 4546
+Record from X517 is Tue Nov 28 14:00:45 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517Client current priority level: #MEDIUMClient initial priority MEDIUMTotal run times 0Prioriry waiting times 3826Total waiting time: 3826
+Record from X517 is Tue Nov 28 14:02:12 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 21 --Total waiting time: 21
+Record from X517 is Tue Nov 28 14:02:17 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 2393 --Total waiting time: 2393
+Record from X517 is Tue Nov 28 14:02:22 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 4530 --Total waiting time: 4530
+Record from X517 is Tue Nov 28 14:02:27 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 0Priority waiting times 830 --Total waiting time: 830
+Record from X517 is Tue Nov 28 14:02:31 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 2173 --Total waiting time: 2173
+Record from X517 is Tue Nov 28 14:02:37 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 1Priority waiting times 5088 --Total waiting time: 5088
+Record from X517 is Tue Nov 28 14:02:42 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 1Priority waiting times 5055 --Total waiting time: 5055
+Record from X517 is Tue Nov 28 14:02:46 GMT 2017. ClientID is: JAMIE
+Client JAMIE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 0Priority waiting times 44 --Total waiting time: 14378
+Record from X517 is Tue Nov 28 14:02:51 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 2Priority waiting times 4854 --Total waiting time: 4854
+Record from X517 is Tue Nov 28 14:05:24 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 23 --Total waiting time: 23
+Record from X517 is Tue Nov 28 14:05:29 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 1Priority waiting times 3 --Total waiting time: 3
+Record from X517 is Tue Nov 28 14:05:34 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 2Priority waiting times 3 --Total waiting time: 3
+Record from X517 is Tue Nov 28 14:05:34 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 2806 --Total waiting time: 2806
+Record from X517 is Tue Nov 28 14:05:39 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 1958 --Total waiting time: 1958
+Record from X517 is Tue Nov 28 14:05:39 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 2Priority waiting times 26 --Total waiting time: 26
+Record from X517 is Tue Nov 28 14:05:43 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 1Priority waiting times 7 --Total waiting time: 893
+Record from X517 is Tue Nov 28 14:05:43 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 3Priority waiting times 6 --Total waiting time: 6
+Record from X517 is Tue Nov 28 14:05:48 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 1Priority waiting times 14 --Total waiting time: 541
+Record from X517 is Tue Nov 28 14:05:48 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 1Priority waiting times 4859 --Total waiting time: 4859
+Record from X517 is Tue Nov 28 14:05:53 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 1Priority waiting times 4794 --Total waiting time: 4794
+Record from X517 is Tue Nov 28 14:05:53 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 1Priority waiting times 14502 --Total waiting time: 14502
+Record from X517 is Tue Nov 28 14:05:58 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 1Priority waiting times 7 --Total waiting time: 4815
+Record from X517 is Tue Nov 28 14:05:58 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 1Priority waiting times 4834 --Total waiting time: 4834
+Record from X517 is Tue Nov 28 14:06:03 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 2Priority waiting times 1 --Total waiting time: 9654
+Record from X517 is Tue Nov 28 14:06:03 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 2Priority waiting times 4840 --Total waiting time: 4840
+Record from X517 is Tue Nov 28 14:06:08 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 1Priority waiting times 4793 --Total waiting time: 4793
+Record from X517 is Tue Nov 28 14:06:08 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 2Priority waiting times 4817 --Total waiting time: 4817
+Record from X517 is Tue Nov 28 14:06:12 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 3Priority waiting times 4787 --Total waiting time: 4787
+Record from X517 is Tue Nov 28 14:06:12 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 3Priority waiting times 4782 --Total waiting time: 4782
+Record from X517 is Tue Nov 28 14:06:22 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 23 --Total waiting time: 23
+Record from X517 is Tue Nov 28 14:06:26 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 2042 --Total waiting time: 2042
+Record from X517 is Tue Nov 28 14:06:31 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 3480 --Total waiting time: 3480
+Record from X517 is Tue Nov 28 14:06:36 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 0Priority waiting times 1474 --Total waiting time: 1474
+Record from X517 is Tue Nov 28 14:06:41 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 2929 --Total waiting time: 2929
+Record from X517 is Tue Nov 28 14:06:46 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 1Priority waiting times 4839 --Total waiting time: 4839
+Record from X517 is Tue Nov 28 14:06:51 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 1Priority waiting times 4843 --Total waiting time: 4843
+Record from X517 is Tue Nov 28 14:06:55 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 2Priority waiting times 4833 --Total waiting time: 4833
+Record from X517 is Tue Nov 28 14:07:00 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 2Priority waiting times 4828 --Total waiting time: 4828
+Record from X517 is Tue Nov 28 14:07:05 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 0Priority waiting times 4856 --Total waiting time: 33932
+Record from X517 is Tue Nov 28 14:07:10 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 3Priority waiting times 4850 --Total waiting time: 4850
+Record from X517 is Tue Nov 28 14:07:15 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 3Priority waiting times 33 --Total waiting time: 14491
+Record from X517 is Tue Nov 28 14:07:20 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 1Priority waiting times 30 --Total waiting time: 43529
+Record from X517 is Tue Nov 28 14:07:24 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 4Priority waiting times 9658 --Total waiting time: 9658
+Record from X517 is Tue Nov 28 14:07:29 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 4Priority waiting times 9656 --Total waiting time: 9656
+Record from X517 is Tue Nov 28 14:07:34 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 5Priority waiting times 4830 --Total waiting time: 4830
+Record from X517 is Tue Nov 28 14:07:39 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 1Priority waiting times 37 --Total waiting time: 72492
+Record from X517 is Tue Nov 28 14:07:44 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 6Priority waiting times 4824 --Total waiting time: 4824
+Record from X517 is Tue Nov 28 14:07:49 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 5Priority waiting times 31 --Total waiting time: 14465
+Record from X517 is Tue Nov 28 14:07:53 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 1Priority waiting times 30 --Total waiting time: 43408
+Record from X517 is Tue Nov 28 14:07:58 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # VIP --Client initial priority LOW --Total run times 1Priority waiting times 20 --Total waiting time: 86954
+Record from X517 is Tue Nov 28 14:08:03 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 7Priority waiting times 14449 --Total waiting time: 14449
+Record from X517 is Tue Nov 28 14:08:08 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 2Priority waiting times 27 --Total waiting time: 43376
+Record from X517 is Tue Nov 28 14:08:13 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 6Priority waiting times 4822 --Total waiting time: 19243
+Record from X517 is Tue Nov 28 14:08:17 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 8Priority waiting times 9618 --Total waiting time: 9618
+Record from X517 is Tue Nov 28 14:08:22 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 7Priority waiting times 4807 --Total waiting time: 4807
+Record from X517 is Tue Nov 28 14:08:27 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 9Priority waiting times 4827 --Total waiting time: 4827
+Record from X517 is Tue Nov 28 14:08:32 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 2Priority waiting times 4855 --Total waiting time: 33695
+Record from X517 is Tue Nov 28 14:08:37 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 10Priority waiting times 4783 --Total waiting time: 4783
+Record from X517 is Tue Nov 28 14:08:41 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 8Priority waiting times 28 --Total waiting time: 14402
+Record from X517 is Tue Nov 28 14:08:46 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 11Priority waiting times 4826 --Total waiting time: 4826
+Record from X517 is Tue Nov 28 14:08:51 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 3Priority waiting times 9671 --Total waiting time: 38502
+Record from X517 is Tue Nov 28 14:08:56 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 12Priority waiting times 4816 --Total waiting time: 4816
+Record from X517 is Tue Nov 28 14:09:01 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 9Priority waiting times 34 --Total waiting time: 14456
+Record from X517 is Tue Nov 28 14:09:06 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 13Priority waiting times 4826 --Total waiting time: 4826
+Record from X517 is Tue Nov 28 14:09:10 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # VIP --Client initial priority LOW --Total run times 2Priority waiting times 31 --Total waiting time: 86660
+Record from X517 is Tue Nov 28 14:09:15 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 14Priority waiting times 4825 --Total waiting time: 4825
+Record from X517 is Tue Nov 28 14:09:20 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 3Priority waiting times 35 --Total waiting time: 43379
+Record from X517 is Tue Nov 28 14:09:25 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 10Priority waiting times 4837 --Total waiting time: 19273
+Record from X517 is Tue Nov 28 14:09:30 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # VIP --Client initial priority LOW --Total run times 2Priority waiting times 28 --Total waiting time: 86663
+Record from X517 is Tue Nov 28 14:09:34 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 15Priority waiting times 14407 --Total waiting time: 14407
+Record from X517 is Tue Nov 28 14:09:39 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 4Priority waiting times 18 --Total waiting time: 43312
+Record from X517 is Tue Nov 28 14:09:44 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 11Priority waiting times 33 --Total waiting time: 14401
+Record from X517 is Tue Nov 28 14:09:49 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 16Priority waiting times 9641 --Total waiting time: 9641
+Record from X517 is Tue Nov 28 14:09:54 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 4Priority waiting times 33 --Total waiting time: 28851
+Record from X517 is Tue Nov 28 14:09:59 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 17Priority waiting times 4813 --Total waiting time: 4813
+Record from X517 is Tue Nov 28 14:10:03 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 12Priority waiting times 30 --Total waiting time: 14441
+Record from X517 is Tue Nov 28 14:10:08 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 18Priority waiting times 4827 --Total waiting time: 4827
+Record from X517 is Tue Nov 28 14:10:13 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 5Priority waiting times 27 --Total waiting time: 28895
+Record from X517 is Tue Nov 28 14:10:18 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 19Priority waiting times 4817 --Total waiting time: 4817
+Record from X517 is Tue Nov 28 14:10:23 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 13Priority waiting times 16 --Total waiting time: 14424
+Record from X517 is Tue Nov 28 14:10:27 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 20Priority waiting times 4810 --Total waiting time: 4810
+Record from X517 is Tue Nov 28 14:10:32 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 3Priority waiting times 4832 --Total waiting time: 76973
+Record from X517 is Tue Nov 28 14:10:37 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 21Priority waiting times 4804 --Total waiting time: 4804
+Record from X517 is Tue Nov 28 14:10:42 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 5Priority waiting times 29 --Total waiting time: 43296
+Record from X517 is Tue Nov 28 14:10:47 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 14Priority waiting times 4838 --Total waiting time: 19236
+Record from X517 is Tue Nov 28 14:10:51 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 22Priority waiting times 9636 --Total waiting time: 9636
+Record from X517 is Tue Nov 28 14:10:56 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 3Priority waiting times 9665 --Total waiting time: 81815
+Record from X517 is Tue Nov 28 14:11:01 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 6Priority waiting times 22 --Total waiting time: 43294
+Record from X517 is Tue Nov 28 14:11:06 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 15Priority waiting times 30 --Total waiting time: 14445
+Record from X517 is Tue Nov 28 14:11:11 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 23Priority waiting times 14455 --Total waiting time: 14455
+Record from X517 is Tue Nov 28 14:11:16 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 6Priority waiting times 31 --Total waiting time: 28913
+Record from X517 is Tue Nov 28 14:11:20 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 24Priority waiting times 4808 --Total waiting time: 4808
+Record from X517 is Tue Nov 28 14:11:25 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 16Priority waiting times 23 --Total waiting time: 14425
+Record from X517 is Tue Nov 28 14:11:30 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 25Priority waiting times 4802 --Total waiting time: 4802
+Record from X517 is Tue Nov 28 14:11:35 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 7Priority waiting times 24 --Total waiting time: 28853
+Record from X517 is Tue Nov 28 14:11:40 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 26Priority waiting times 4820 --Total waiting time: 4820
+Record from X517 is Tue Nov 28 14:11:44 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 17Priority waiting times 33 --Total waiting time: 14448
+Record from X517 is Tue Nov 28 14:11:49 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 27Priority waiting times 4820 --Total waiting time: 4820
+Record from X517 is Tue Nov 28 14:11:54 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 4Priority waiting times 4839 --Total waiting time: 77018
+Record from X517 is Tue Nov 28 14:11:59 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 28Priority waiting times 4811 --Total waiting time: 4811
+Record from X517 is Tue Nov 28 14:12:04 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 7Priority waiting times 23 --Total waiting time: 43292
+Record from X517 is Tue Nov 28 14:12:08 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 18Priority waiting times 4831 --Total waiting time: 19233
+Record from X517 is Tue Nov 28 14:12:13 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 29Priority waiting times 9632 --Total waiting time: 9632
+Record from X517 is Tue Nov 28 14:12:18 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 4Priority waiting times 4832 --Total waiting time: 76991
+Record from X517 is Tue Nov 28 14:12:23 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 8Priority waiting times 22 --Total waiting time: 43308
+Record from X517 is Tue Nov 28 14:12:28 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 19Priority waiting times 27 --Total waiting time: 14436
+Record from X517 is Tue Nov 28 14:12:33 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 30Priority waiting times 14453 --Total waiting time: 14453
+Record from X517 is Tue Nov 28 14:12:37 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 8Priority waiting times 29 --Total waiting time: 28899
+Record from X517 is Tue Nov 28 14:12:42 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 31Priority waiting times 4819 --Total waiting time: 4819
+Record from X517 is Tue Nov 28 14:12:47 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 20Priority waiting times 21 --Total waiting time: 14451
+Record from X517 is Tue Nov 28 14:12:52 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 32Priority waiting times 4816 --Total waiting time: 4816
+Record from X517 is Tue Nov 28 14:12:57 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 9Priority waiting times 26 --Total waiting time: 28901
+Record from X517 is Tue Nov 28 14:13:01 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 33Priority waiting times 4803 --Total waiting time: 4803
+Record from X517 is Tue Nov 28 14:13:06 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 21Priority waiting times 27 --Total waiting time: 14425
+Record from X517 is Tue Nov 28 14:13:11 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 34Priority waiting times 4829 --Total waiting time: 4829
+Record from X517 is Tue Nov 28 14:13:16 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 5Priority waiting times 4851 --Total waiting time: 77029
+Record from X517 is Tue Nov 28 14:13:21 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 35Priority waiting times 4795 --Total waiting time: 4795
+Record from X517 is Tue Nov 28 14:13:25 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 9Priority waiting times 21 --Total waiting time: 43288
+Record from X517 is Tue Nov 28 14:13:30 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 22Priority waiting times 4836 --Total waiting time: 19231
+Record from X517 is Tue Nov 28 14:13:35 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 36Priority waiting times 9645 --Total waiting time: 9645
+Record from X517 is Tue Nov 28 14:13:40 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 5Priority waiting times 4835 --Total waiting time: 77025
+Record from X517 is Tue Nov 28 14:13:45 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 10Priority waiting times 21 --Total waiting time: 43309
+Record from X517 is Tue Nov 28 14:13:50 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 23Priority waiting times 31 --Total waiting time: 14439
+Record from X517 is Tue Nov 28 14:13:54 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 37Priority waiting times 14438 --Total waiting time: 14438
+Record from X517 is Tue Nov 28 14:13:59 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 10Priority waiting times 27 --Total waiting time: 28881
+Record from X517 is Tue Nov 28 14:14:04 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 38Priority waiting times 4811 --Total waiting time: 4811
+Record from X517 is Tue Nov 28 14:14:09 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 24Priority waiting times 24 --Total waiting time: 14432
+Record from X517 is Tue Nov 28 14:14:14 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 39Priority waiting times 4771 --Total waiting time: 4771
+Record from X517 is Tue Nov 28 14:14:18 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 11Priority waiting times 28 --Total waiting time: 28811
+Record from X517 is Tue Nov 28 14:14:23 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 40Priority waiting times 4806 --Total waiting time: 4806
+Record from X517 is Tue Nov 28 14:14:28 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 25Priority waiting times 26 --Total waiting time: 14417
+Record from X517 is Tue Nov 28 14:14:33 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 41Priority waiting times 4808 --Total waiting time: 4808
+Record from X517 is Tue Nov 28 14:14:38 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 6Priority waiting times 4824 --Total waiting time: 76919
+Record from X517 is Tue Nov 28 14:14:42 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 42Priority waiting times 4813 --Total waiting time: 4813
+Record from X517 is Tue Nov 28 14:14:47 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 11Priority waiting times 16 --Total waiting time: 43217
+Record from X517 is Tue Nov 28 14:14:52 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 26Priority waiting times 4827 --Total waiting time: 19225
+Record from X517 is Tue Nov 28 14:14:57 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 43Priority waiting times 9618 --Total waiting time: 9618
+Record from X517 is Tue Nov 28 14:15:02 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 6Priority waiting times 4824 --Total waiting time: 76888
+Record from X517 is Tue Nov 28 14:15:06 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 12Priority waiting times 22 --Total waiting time: 43258
+Record from X517 is Tue Nov 28 14:15:11 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 27Priority waiting times 21 --Total waiting time: 14419
+Record from X517 is Tue Nov 28 14:15:16 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 44Priority waiting times 14415 --Total waiting time: 14415
+Record from X517 is Tue Nov 28 14:15:21 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 12Priority waiting times 28 --Total waiting time: 28836
+Record from X517 is Tue Nov 28 14:15:26 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 45Priority waiting times 4801 --Total waiting time: 4801
+Record from X517 is Tue Nov 28 14:15:30 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 28Priority waiting times 22 --Total waiting time: 14417
+Record from X517 is Tue Nov 28 14:15:35 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 46Priority waiting times 4804 --Total waiting time: 4804
+Record from X517 is Tue Nov 28 14:15:40 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 13Priority waiting times 24 --Total waiting time: 28832
+Record from X517 is Tue Nov 28 14:15:45 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 47Priority waiting times 4808 --Total waiting time: 4808
+Record from X517 is Tue Nov 28 14:15:50 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 29Priority waiting times 31 --Total waiting time: 14430
+Record from X517 is Tue Nov 28 14:15:54 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 48Priority waiting times 4815 --Total waiting time: 4815
+Record from X517 is Tue Nov 28 14:15:59 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 7Priority waiting times 4831 --Total waiting time: 76905
+Record from X517 is Tue Nov 28 14:16:04 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 49Priority waiting times 4800 --Total waiting time: 4800
+Record from X517 is Tue Nov 28 14:16:09 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 13Priority waiting times 22 --Total waiting time: 43252
+Record from X517 is Tue Nov 28 14:16:14 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 30Priority waiting times 4831 --Total waiting time: 19217
+Record from X517 is Tue Nov 28 14:16:19 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 50Priority waiting times 9629 --Total waiting time: 9629
+Record from X517 is Tue Nov 28 14:16:23 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 7Priority waiting times 4828 --Total waiting time: 76911
+Record from X517 is Tue Nov 28 14:16:28 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 14Priority waiting times 21 --Total waiting time: 43455
+Record from X517 is Tue Nov 28 14:16:33 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 31Priority waiting times 25 --Total waiting time: 14801
+Record from X517 is Tue Nov 28 14:16:38 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 51Priority waiting times 14808 --Total waiting time: 14808
+Record from X517 is Tue Nov 28 14:16:43 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 14Priority waiting times 27 --Total waiting time: 29245
+Record from X517 is Tue Nov 28 14:16:48 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 52Priority waiting times 4809 --Total waiting time: 4809
+Record from X517 is Tue Nov 28 14:16:53 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 32Priority waiting times 19 --Total waiting time: 14422
+Record from X517 is Tue Nov 28 14:16:57 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 53Priority waiting times 4803 --Total waiting time: 4803
+Record from X517 is Tue Nov 28 14:17:02 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 15Priority waiting times 28 --Total waiting time: 28844
+Record from X517 is Tue Nov 28 14:17:07 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 54Priority waiting times 4805 --Total waiting time: 4805
+Record from X517 is Tue Nov 28 14:17:12 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 33Priority waiting times 30 --Total waiting time: 14417
+Record from X517 is Tue Nov 28 14:17:17 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 55Priority waiting times 4823 --Total waiting time: 4823
+Record from X517 is Tue Nov 28 14:17:21 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 8Priority waiting times 4842 --Total waiting time: 77317
+Record from X517 is Tue Nov 28 14:17:26 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 56Priority waiting times 4810 --Total waiting time: 4810
+Record from X517 is Tue Nov 28 14:17:31 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 15Priority waiting times 24 --Total waiting time: 43267
+Record from X517 is Tue Nov 28 14:17:36 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 34Priority waiting times 4853 --Total waiting time: 19259
+Record from X517 is Tue Nov 28 14:17:41 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 57Priority waiting times 9639 --Total waiting time: 9639
+Record from X517 is Tue Nov 28 14:17:45 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # HIGH --Client initial priority LOW --Total run times 8Priority waiting times 4815 --Total waiting time: 77148
+Record from X517 is Tue Nov 28 14:17:50 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 16Priority waiting times 17 --Total waiting time: 43305
+Record from X517 is Tue Nov 28 14:17:55 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 35Priority waiting times 22 --Total waiting time: 14419
+Record from X517 is Tue Nov 28 14:18:00 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 58Priority waiting times 14436 --Total waiting time: 14436
+Record from X517 is Tue Nov 28 14:18:05 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 16Priority waiting times 24 --Total waiting time: 28853
+Record from X517 is Tue Nov 28 14:18:10 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 59Priority waiting times 4818 --Total waiting time: 4818
+Record from X517 is Tue Nov 28 14:18:14 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 36Priority waiting times 26 --Total waiting time: 14439
+Record from X517 is Tue Nov 28 14:18:19 GMT 2017. ClientID is: SHARON
+Client SHARON host is X517 --Client current priority level: # VIP --Client initial priority VIP --Total run times 60Priority waiting times 4813 --Total waiting time: 4813
+Record from X517 is Tue Nov 28 14:18:24 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # HIGH --Client initial priority MEDIUM --Total run times 17Priority waiting times 24 --Total waiting time: 28869
+Record from X517 is Tue Nov 28 14:18:47 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 24 --Total waiting time: 24
+Record from X517 is Tue Nov 28 14:18:51 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 2378 --Total waiting time: 2378
+Record from X517 is Tue Nov 28 14:18:56 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 4496 --Total waiting time: 4496
+Record from X517 is Tue Nov 28 14:19:01 GMT 2017. ClientID is: JANE
+Client JANE host is X517 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 0Priority waiting times 3320 --Total waiting time: 3320
+Record from X517 is Tue Nov 28 14:19:06 GMT 2017. ClientID is: SARAH
+Client SARAH host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 10982 --Total waiting time: 10982
+Record from X517 is Tue Nov 28 14:19:24 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 24 --Total waiting time: 24
+Record from X517 is Tue Nov 28 14:19:29 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 990 --Total waiting time: 990
+Record from X517 is Tue Nov 28 14:19:34 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 2665 --Total waiting time: 2665
+Record from X517 is Tue Nov 28 14:19:39 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 1Priority waiting times 9674 --Total waiting time: 9674
+Record from X517 is Tue Nov 28 14:19:44 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 1Priority waiting times 4806 --Total waiting time: 4806
+Record from X517 is Tue Nov 28 14:19:48 GMT 2017. ClientID is: JOHN
+Client JOHN host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 1Priority waiting times 14435 --Total waiting time: 14435
+Record from X517 is Tue Nov 28 14:19:53 GMT 2017. ClientID is: SAM
+Client SAM host is X517 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 2Priority waiting times 4817 --Total waiting time: 4817
+Record from X517 is Tue Nov 28 14:19:58 GMT 2017. ClientID is: REECE
+Client REECE host is X517 --Client current priority level: # LOW --Client initial priority LOW --Total run times 2Priority waiting times 14418 --Total waiting time: 14418
+Record from X519 is Thu Nov 30 15:53:25 GMT 2017. ClientID is: JOHN
+Client JOHN host is X519 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 35 --Total waiting time: 35
+Record from X519 is Thu Nov 30 15:53:29 GMT 2017. ClientID is: REECE
+Client REECE host is X519 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 2181 --Total waiting time: 2181
+Record from X519 is Thu Nov 30 15:53:34 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 2293 --Total waiting time: 2293
+Record from X519 is Thu Nov 30 15:53:39 GMT 2017. ClientID is: SAM
+Client SAM host is X519 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 4305 --Total waiting time: 4305
+Record from X519 is Thu Nov 30 15:53:44 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 1Priority waiting times 4873 --Total waiting time: 4873
+Record from X519 is Thu Nov 30 15:53:49 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 3346 --Total waiting time: 3346
+Record from X519 is Thu Nov 30 15:53:54 GMT 2017. ClientID is: JANE
+Client JANE host is X519 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 0Priority waiting times 54 --Total waiting time: 13663
+Record from X519 is Thu Nov 30 15:53:59 GMT 2017. ClientID is: JANE
+Client JANE host is X519 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 0Priority waiting times 57 --Total waiting time: 10403
+Record from X519 is Thu Nov 30 15:54:04 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 2Priority waiting times 14692 --Total waiting time: 14692
+Record from X519 is Thu Nov 30 15:54:08 GMT 2017. ClientID is: JANE
+Client JANE host is X519 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 0Priority waiting times 4991 --Total waiting time: 15775
+Record from X519 is Thu Nov 30 15:54:13 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 1Priority waiting times 19635 --Total waiting time: 19635
+Record from X519 is Thu Nov 30 15:54:18 GMT 2017. ClientID is: SARAH
+Client SARAH host is X519 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 0Priority waiting times 81 --Total waiting time: 40974
+Record from X519 is Thu Nov 30 15:54:23 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 26428 --Total waiting time: 26428
+Record from X519 is Thu Nov 30 15:54:28 GMT 2017. ClientID is: SAM
+Client SAM host is X519 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 1Priority waiting times 65 --Total waiting time: 44218
+Record from X519 is Thu Nov 30 15:55:12 GMT 2017. ClientID is: REECE
+Client REECE host is X519 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 21 --Total waiting time: 21
+Record from X519 is Thu Nov 30 15:55:17 GMT 2017. ClientID is: REECE
+Client REECE host is X519 --Client current priority level: # LOW --Client initial priority LOW --Total run times 1Priority waiting times 51 --Total waiting time: 51
+Record from X519 is Thu Nov 30 15:55:31 GMT 2017. ClientID is: JOHN
+Client JOHN host is X519 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 21 --Total waiting time: 21
+Record from X519 is Thu Nov 30 16:16:50 GMT 2017. ClientID is: JOHN
+Client JOHN host is X519 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 23 --Total waiting time: 23
+Record from X519 is Thu Nov 30 16:16:55 GMT 2017. ClientID is: SAM
+Client SAM host is X519 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 1764 --Total waiting time: 1764
+Record from X519 is Thu Nov 30 16:16:59 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 1028 --Total waiting time: 1028
+Record from X519 is Thu Nov 30 16:17:04 GMT 2017. ClientID is: JANE
+Client JANE host is X519 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 0Priority waiting times 8886 --Total waiting time: 8886
+Record from X519 is Thu Nov 30 16:17:09 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 1Priority waiting times 4854 --Total waiting time: 4854
+Record from X519 is Thu Nov 30 16:17:14 GMT 2017. ClientID is: JANE
+Client JANE host is X519 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 0Priority waiting times 40 --Total waiting time: 10357
+Record from X519 is Thu Nov 30 16:17:19 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 12520 --Total waiting time: 12520
+Record from X519 is Thu Nov 30 16:17:24 GMT 2017. ClientID is: JANE
+Client JANE host is X519 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 1Priority waiting times 34 --Total waiting time: 14654
+Record from X519 is Thu Nov 30 16:17:29 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 2Priority waiting times 14667 --Total waiting time: 14667
+Record from X519 is Thu Nov 30 16:17:34 GMT 2017. ClientID is: JANE
+Client JANE host is X519 --Client current priority level: # VIP --Client initial priority HIGH --Total run times 0Priority waiting times 4874 --Total waiting time: 18711
+Record from X519 is Thu Nov 30 16:17:38 GMT 2017. ClientID is: SHARON
+Client SHARON host is X519 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 21017 --Total waiting time: 21017
+Record from X519 is Thu Nov 30 16:17:43 GMT 2017. ClientID is: SAM
+Client SAM host is X519 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 1Priority waiting times 45 --Total waiting time: 43858
+Record from X519 is Thu Nov 30 16:17:48 GMT 2017. ClientID is: SAM
+Client SAM host is X519 --Client current priority level: # VIP --Client initial priority MEDIUM --Total run times 0Priority waiting times 4969 --Total waiting time: 47153
+Record from X809 is Fri Dec 01 13:07:35 GMT 2017. ClientID is: JOHN
+Client JOHN host is X809 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 34 --Total waiting time: 34
+Record from X809 is Fri Dec 01 13:07:40 GMT 2017. ClientID is: JANE
+Client JANE host is X809 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 0Priority waiting times 1729 --Total waiting time: 1729
+Record from X809 is Fri Dec 01 13:07:45 GMT 2017. ClientID is: SHARON
+Client SHARON host is X809 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 1034 --Total waiting time: 1034
+Record from X809 is Fri Dec 01 13:07:49 GMT 2017. ClientID is: JANE
+Client JANE host is X809 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 1Priority waiting times 4819 --Total waiting time: 4819
+Record from X809 is Fri Dec 01 13:08:08 GMT 2017. ClientID is: JOHN
+Client JOHN host is X809 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 23 --Total waiting time: 24
+Record from X809 is Fri Dec 01 13:08:13 GMT 2017. ClientID is: REECE
+Client REECE host is X809 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 2407 --Total waiting time: 2407
+Record from X809 is Fri Dec 01 13:08:18 GMT 2017. ClientID is: SHARON
+Client SHARON host is X809 --Client current priority level: # VIP --Client initial priority VIP --Total run times 0Priority waiting times 4794 --Total waiting time: 4794
+Record from X809 is Fri Dec 01 13:08:23 GMT 2017. ClientID is: SARAH
+Client SARAH host is X809 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 7354 --Total waiting time: 7354
+Record from X809 is Fri Dec 01 13:08:36 GMT 2017. ClientID is: SARAH
+Client SARAH host is X809 --Client current priority level: # MEDIUM --Client initial priority MEDIUM --Total run times 0Priority waiting times 21 --Total waiting time: 21
+Record from X809 is Fri Dec 01 13:08:40 GMT 2017. ClientID is: JOHN
+Client JOHN host is X809 --Client current priority level: # LOW --Client initial priority LOW --Total run times 0Priority waiting times 2305 --Total waiting time: 2305
+Record from X809 is Fri Dec 01 13:08:45 GMT 2017. ClientID is: JANE
+Client JANE host is X809 --Client current priority level: # HIGH --Client initial priority HIGH --Total run times 0Priority waiting times 4471 --Total waiting time: 4471

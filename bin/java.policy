@@ -1,0 +1,13 @@
+grant {
+            permission java.net.SocketPermission "*:1024-65535",
+               "connect,accept,resolve,listen";
+
+            permission java.net.SocketPermission "*:80",
+              "connect,accept,resolve,listen";
+
+            permission java.io.FilePermission
+               "H:\\CSC9V7\\cscu9v7_2016\\assessment\\assignment\\assessment-with-security\\record.txt", "read,write,delete";
+
+           permission java.security.AllPermission "", "";
+
+};
